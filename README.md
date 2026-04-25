@@ -76,4 +76,4 @@ HeluoSaveViewer/
 
 ## License
 
-当前仓库暂未指定开源许可证。使用、分发或二次开发前，请先与项目作者确认授权方式。
+本项目基于 MIT License 开源，详见 [LICENSE](./LICENSE)。
